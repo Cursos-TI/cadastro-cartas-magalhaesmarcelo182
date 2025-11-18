@@ -2,6 +2,7 @@
 // teste
 // teste 2
 // teste 3
+// teste 4
 // Desafio Super Trunfo - Países
 // Tema 1 - Cadastro das cartas
 // Objetivo: No nível novato você deve criar as cartas representando as cidades utilizando scanf para entrada de dados e printf para exibir as informações.
